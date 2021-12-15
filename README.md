@@ -1,6 +1,6 @@
-# victorsandu.github.io
+# Victor Sandu's Website
 
-Welcome to my website!
+Welcome to my portfolio!
 
 ## Credits
 
